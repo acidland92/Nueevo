@@ -10,7 +10,7 @@ import java.util.*;
 
 /**
  *
- * @author Usuario
+ * @acidland
  */
 public class Pishing {
 
